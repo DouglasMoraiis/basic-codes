@@ -1,0 +1,8 @@
+F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLambdExpression\WorkingLambdExpression\bin\Debug\WorkingLambdExpression.exe.config
+F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLambdExpression\WorkingLambdExpression\bin\Debug\WorkingLambdExpression.exe
+F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLambdExpression\WorkingLambdExpression\bin\Debug\WorkingLambdExpression.pdb
+F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLambdExpression\WorkingLambdExpression\obj\Debug\WorkingLambdExpression.csproj.AssemblyReference.cache
+F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLambdExpression\WorkingLambdExpression\obj\Debug\WorkingLambdExpression.csproj.SuggestedBindingRedirects.cache
+F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLambdExpression\WorkingLambdExpression\obj\Debug\WorkingLambdExpression.csproj.CoreCompileInputs.cache
+F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLambdExpression\WorkingLambdExpression\obj\Debug\WorkingLambdExpression.exe
+F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLambdExpression\WorkingLambdExpression\obj\Debug\WorkingLambdExpression.pdb

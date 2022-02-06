@@ -1,0 +1,8 @@
+C:\Users\Douglas Morais\source\repos\GetsAndSets\GetsAndSets\bin\Debug\GetsAndSets.exe.config
+C:\Users\Douglas Morais\source\repos\GetsAndSets\GetsAndSets\bin\Debug\GetsAndSets.exe
+C:\Users\Douglas Morais\source\repos\GetsAndSets\GetsAndSets\bin\Debug\GetsAndSets.pdb
+C:\Users\Douglas Morais\source\repos\GetsAndSets\GetsAndSets\obj\Debug\GetsAndSets.csproj.AssemblyReference.cache
+C:\Users\Douglas Morais\source\repos\GetsAndSets\GetsAndSets\obj\Debug\GetsAndSets.csproj.SuggestedBindingRedirects.cache
+C:\Users\Douglas Morais\source\repos\GetsAndSets\GetsAndSets\obj\Debug\GetsAndSets.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Morais\source\repos\GetsAndSets\GetsAndSets\obj\Debug\GetsAndSets.exe
+C:\Users\Douglas Morais\source\repos\GetsAndSets\GetsAndSets\obj\Debug\GetsAndSets.pdb
