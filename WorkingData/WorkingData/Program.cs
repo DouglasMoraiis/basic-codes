@@ -18,33 +18,40 @@ namespace WorkingDate
             var tomorrow = now.AddDays(1);
             var yesterday = now.AddDays(-1);
 
+            DateTime day1 = new DateTime(1999, 12, 14, 2, 0, 0, DateTimeKind.Utc);
+            DateTime day2 = new DateTime(1999, 12, 14, 2, 0, 0, DateTimeKind.Local);
 
-/*            Console.WriteLine(now);
+            Console.WriteLine(day1);
+            Console.WriteLine(day1.ToLocalTime());
+
+
+            /*
+            Console.WriteLine(now);
             Console.WriteLine(now.ToLongDateString());
             Console.WriteLine(now.ToShortDateString());
             Console.WriteLine(now.ToLongTimeString());
             Console.WriteLine(now.ToShortTimeString());
             Console.WriteLine(now.ToString("yyyy-MM-dd HH:mm"));
-*/
+            */
             // TIMESPAN
             var timeSpan = new TimeSpan(1, 5, 3);
             var timeSpan1 = TimeSpan.FromDays(1);
-/*
+            /*
             Console.WriteLine(timeSpan.Hours);
             Console.WriteLine(timeSpan.Minutes);
             Console.WriteLine(timeSpan.Seconds);
             Console.WriteLine(timeSpan1.TotalHours);
-*/
+            */
             // OPERATIONS TIME
             var start = DateTime.Now;
             var end = start.AddMinutes(5);
             var duration = end - start;
+            
             /*
-                        Console.WriteLine(duration);
-                        */
+            Console.WriteLine(duration);
+            */
 
-            float price = 20232.20f;
-            Console.WriteLine(price.ToString("C2"));
+            
 
 
         }
