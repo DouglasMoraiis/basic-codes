@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WorkingDate
+namespace Date
 {
     internal class Program
     {
@@ -23,7 +23,6 @@ namespace WorkingDate
 
             Console.WriteLine(day1);
             Console.WriteLine(day1.ToLocalTime());
-
 
             /*
             Console.WriteLine(now);

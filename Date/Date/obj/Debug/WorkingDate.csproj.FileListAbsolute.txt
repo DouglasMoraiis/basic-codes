@@ -13,3 +13,10 @@ C:\Users\jander.morais\source\repos\dotnet-basic-codes\WorkingData\WorkingData\o
 C:\Users\jander.morais\source\repos\dotnet-basic-codes\WorkingData\WorkingData\obj\Debug\WorkingDate.csproj.CoreCompileInputs.cache
 C:\Users\jander.morais\source\repos\dotnet-basic-codes\WorkingData\WorkingData\obj\Debug\WorkingData.exe
 C:\Users\jander.morais\source\repos\dotnet-basic-codes\WorkingData\WorkingData\obj\Debug\WorkingData.pdb
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\Date\Date\bin\Debug\WorkingData.exe.config
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\Date\Date\bin\Debug\WorkingData.exe
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\Date\Date\bin\Debug\WorkingData.pdb
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\Date\Date\obj\Debug\WorkingDate.csproj.AssemblyReference.cache
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\Date\Date\obj\Debug\WorkingDate.csproj.CoreCompileInputs.cache
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\Date\Date\obj\Debug\WorkingData.exe
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\Date\Date\obj\Debug\WorkingData.pdb
