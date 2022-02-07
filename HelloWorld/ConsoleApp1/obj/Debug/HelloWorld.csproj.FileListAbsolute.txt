@@ -1,8 +1,0 @@
-C:\Users\Douglas Morais\source\repos\HelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\Douglas Morais\source\repos\HelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\Douglas Morais\source\repos\HelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\Douglas Morais\source\repos\HelloWorld\ConsoleApp1\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
-C:\Users\Douglas Morais\source\repos\HelloWorld\ConsoleApp1\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
-C:\Users\Douglas Morais\source\repos\HelloWorld\ConsoleApp1\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-C:\Users\Douglas Morais\source\repos\HelloWorld\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\Douglas Morais\source\repos\HelloWorld\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
