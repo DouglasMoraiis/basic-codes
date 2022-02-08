@@ -1,0 +1,14 @@
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\bin\Debug\netcoreapp3.1\CompositionUML.exe
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\bin\Debug\netcoreapp3.1\CompositionUML.deps.json
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\bin\Debug\netcoreapp3.1\CompositionUML.runtimeconfig.json
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\bin\Debug\netcoreapp3.1\CompositionUML.runtimeconfig.dev.json
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\bin\Debug\netcoreapp3.1\CompositionUML.dll
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\bin\Debug\netcoreapp3.1\CompositionUML.pdb
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\obj\Debug\netcoreapp3.1\CompositionUML.csproj.AssemblyReference.cache
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\obj\Debug\netcoreapp3.1\CompositionUML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\obj\Debug\netcoreapp3.1\CompositionUML.AssemblyInfoInputs.cache
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\obj\Debug\netcoreapp3.1\CompositionUML.AssemblyInfo.cs
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\obj\Debug\netcoreapp3.1\CompositionUML.csproj.CoreCompileInputs.cache
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\obj\Debug\netcoreapp3.1\CompositionUML.dll
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\obj\Debug\netcoreapp3.1\CompositionUML.pdb
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\CompositionUML\CompositionUML\obj\Debug\netcoreapp3.1\CompositionUML.genruntimeconfig.cache
