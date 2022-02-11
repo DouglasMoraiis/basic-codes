@@ -1,0 +1,14 @@
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\jander.morais\source\repos\dotnet-basic-codes\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache
