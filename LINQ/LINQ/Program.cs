@@ -8,12 +8,14 @@ namespace WorkingLINQ
 {
     public class Book
     {
-        private string title;
-        private string author;
-
         public string Title { get; set; }
         public string Author { get; set; }
+        public double Price { get; set; }
 
+        public override string ToString() 
+        {
+            return $"{Title} {Author} {Price}";
+        }
     }
 
     public class BookRepository
@@ -22,48 +24,80 @@ namespace WorkingLINQ
         {
             return new List<Book>
             {
-                new Book() {Title = "HP1", Author = "J.J.K" },
-                new Book() {Title = "HP2", Author = "J.J.K"},
-                new Book() {Title = "GOT", Author = "J.K.R"},
-                new Book() {Title = "WITCHER", Author = "L.L"},            };
+                new Book() {Title = "GOT", Author = "J.K.R", Price = 20.10d},
+                new Book() {Title = "WITCHER", Author = "L.L", Price = 25.50d},
+                new Book() {Title = "OLOCO", Author = "J.J.K", Price = 22.20d},
+                new Book() {Title = "HP", Author = "J.J.K", Price = 22.20d},
+                new Book() {Title = "HP", Author = "J.J.K", Price = 24.20d},
+            };
         }
     }
     internal class Program
     {
+        static void Print<T>(string message, IEnumerable<T> collection)
+        {
+            Console.WriteLine(message);
+            foreach (T obj in collection)
+            {
+                Console.WriteLine(obj.ToString());
+            }
+            Console.WriteLine();
+        }
+
         static void Main(string[] args)
         {
             var books = new BookRepository().GetBooks();
 
-            Console.WriteLine("### QUERY 1 ###");
-            var matchBooks = books.Where(b => b.Author[0] == 'J');
+            // FILTERING
+            // Where, OfType
+            Print("Where:", books.Where(p => p.Title == "HP") );
 
-            foreach (var book in matchBooks)
-                Console.WriteLine(book.Title + " " + book.Author);
+            // SORTING
+            // OrderBy, OrderByDescending, ThenBy, ThenByDescending, Reverse
+            Print("OrderBy:", books.OrderBy(p => p.Price));
+            Print("ThenBy:", books.OrderBy(p => p.Price).ThenBy(p => p.Title));
 
-            Console.WriteLine("### QUERY 2 ###");
-            var titles = books.Where(b => b.Author[0] == 'J').OrderBy(b => b.Title).Select(b => b.Title);
+            // SET
+            // Distinct, Except, Intersect, Union
 
-            foreach (var title in titles)
-                Console.WriteLine(title);
+            // QUANTIFICATION
+            // All, Any, Contains
 
-            Console.WriteLine("### QUERY 3 ###");
-            titles = books
-                .Where(b => b.Author[0] == 'J')
-                .OrderBy(b => b.Title)
-                .Select(b => b.Title);
+            // PROJECTION
+            // Select, SelectMany
+            Print("Select: ", books.Select(p => p.Author) );
+            Print("Select 2: ", books.Select(p => new { p.Title, p.Price }) );
 
-            foreach (var title in titles)
-                Console.WriteLine(title);
+            // PARTITION (PAGINATION)
+            // Skip, Take
+            Print("Skil and Take: ", books.Skip(1).Take(2));
 
-            Console.WriteLine("### QUERY 4 ###");
-            titles =
-                from b in books
-                where b.Author[0] == 'J'
-                orderby b.Title
-                select b.Title;
+            // JOIN
+            // join, GroupJoin
 
-            foreach (var title in titles)
-                Console.WriteLine(title);
+            // GROUPING 
+            // GroupBy
+
+            // GENERATIONAL
+            // Empty
+
+            // EQUATILITY
+            // SequenceEquals
+
+            // ELEMENT
+            // ElementAt, First, FirstOrDefault, Last, LasOrDefault, Sign, SignOrDefaulr
+            //Print("SignOrDefault: ", books.Where(p => p.Title == "OLOCO").SingleOrDefault());
+
+            // CONVERSIONS
+            // AsEnumerable, AsQueryable
+
+            // CONCATENATION
+            // Concat
+
+            // AGGREGATION 
+            // Aggregation, Average, Count, LongCount, Max, Min, Sum
+
+
         }
     }
 }

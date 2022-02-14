@@ -1,0 +1,14 @@
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.exe
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.deps.json
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.json
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.dev.json
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.dll
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.pdb
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.AssemblyReference.cache
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfoInputs.cache
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfo.cs
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.CoreCompileInputs.cache
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.dll
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.pdb
+F:\DEVPROJECTS\VisualStudio\Repositories\dotnet-basic-codes\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.genruntimeconfig.cache
