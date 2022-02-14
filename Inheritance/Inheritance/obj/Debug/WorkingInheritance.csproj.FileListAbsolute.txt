@@ -1,8 +1,0 @@
-C:\Users\Douglas Morais\source\repos\WorkingInheritance\WorkingInheritance\bin\Debug\WorkingInheritance.exe.config
-C:\Users\Douglas Morais\source\repos\WorkingInheritance\WorkingInheritance\bin\Debug\WorkingInheritance.exe
-C:\Users\Douglas Morais\source\repos\WorkingInheritance\WorkingInheritance\bin\Debug\WorkingInheritance.pdb
-C:\Users\Douglas Morais\source\repos\WorkingInheritance\WorkingInheritance\obj\Debug\WorkingInheritance.csproj.AssemblyReference.cache
-C:\Users\Douglas Morais\source\repos\WorkingInheritance\WorkingInheritance\obj\Debug\WorkingInheritance.csproj.SuggestedBindingRedirects.cache
-C:\Users\Douglas Morais\source\repos\WorkingInheritance\WorkingInheritance\obj\Debug\WorkingInheritance.csproj.CoreCompileInputs.cache
-C:\Users\Douglas Morais\source\repos\WorkingInheritance\WorkingInheritance\obj\Debug\WorkingInheritance.exe
-C:\Users\Douglas Morais\source\repos\WorkingInheritance\WorkingInheritance\obj\Debug\WorkingInheritance.pdb

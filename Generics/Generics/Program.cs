@@ -14,7 +14,7 @@ namespace WorkingGenerics
 
             public void Add(T value)
             {
-                this.list.Add(value);    
+                this.list.Add(value);
             }
             public T this[int index]
             {
@@ -22,7 +22,7 @@ namespace WorkingGenerics
             }
         }
 
-        static void Main(string[] args)         
+        static void Main(string[] args)
         {
             var numbers = new GenericList<int>();
             numbers.Add(1);

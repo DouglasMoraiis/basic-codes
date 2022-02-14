@@ -13,9 +13,9 @@ namespace WorkingLINQ
 
         public string Title { get; set; }
         public string Author { get; set; }
-        
+
     }
-    
+
     public class BookRepository
     {
         public IEnumerable<Book> GetBooks()
@@ -26,7 +26,7 @@ namespace WorkingLINQ
                 new Book() {Title = "HP2", Author = "J.J.K"},
                 new Book() {Title = "GOT", Author = "J.K.R"},
                 new Book() {Title = "WITCHER", Author = "L.L"},            };
-        } 
+        }
     }
     internal class Program
     {
@@ -36,7 +36,7 @@ namespace WorkingLINQ
 
             Console.WriteLine("### QUERY 1 ###");
             var matchBooks = books.Where(b => b.Author[0] == 'J');
-            
+
             foreach (var book in matchBooks)
                 Console.WriteLine(book.Title + " " + book.Author);
 

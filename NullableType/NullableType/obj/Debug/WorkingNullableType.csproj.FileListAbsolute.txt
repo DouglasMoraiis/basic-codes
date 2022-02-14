@@ -1,8 +1,0 @@
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingNullableType\WorkingNullableType\bin\Debug\WorkingNullableType.exe.config
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingNullableType\WorkingNullableType\bin\Debug\WorkingNullableType.exe
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingNullableType\WorkingNullableType\bin\Debug\WorkingNullableType.pdb
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingNullableType\WorkingNullableType\obj\Debug\WorkingNullableType.csproj.AssemblyReference.cache
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingNullableType\WorkingNullableType\obj\Debug\WorkingNullableType.csproj.SuggestedBindingRedirects.cache
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingNullableType\WorkingNullableType\obj\Debug\WorkingNullableType.csproj.CoreCompileInputs.cache
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingNullableType\WorkingNullableType\obj\Debug\WorkingNullableType.exe
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingNullableType\WorkingNullableType\obj\Debug\WorkingNullableType.pdb

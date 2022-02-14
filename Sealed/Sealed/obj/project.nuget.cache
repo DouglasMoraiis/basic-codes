@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "DR5pETp1FZ4HlKxK8IT0238KPDUCVY81vf8k3BUlLo35LVOrMaiZ75FEDeB0+E0v+zWiEzS4RnoggWphaOSf0A==",
+  "dgSpecHash": "1f/NnBwQCpIahIc0Ai3jP7gPyztoOlrtAFw/tH7LJnin+u3a03q4u+NedFreD5GLaltf1OcvrDH7cAIufEuOTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jander.morais\\source\\repos\\Sealed\\Sealed\\Sealed.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVPROJECTS\\VisualStudio\\Repositories\\dotnet-basic-codes\\Sealed\\Sealed\\Sealed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Douglas Morais\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Douglas Morais\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Douglas Morais\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Douglas Morais\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

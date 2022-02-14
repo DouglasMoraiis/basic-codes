@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jander.morais\\source\\repos\\Sealed\\Sealed\\Sealed.csproj": {}
+    "F:\\DEVPROJECTS\\VisualStudio\\Repositories\\dotnet-basic-codes\\Sealed\\Sealed\\Sealed.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jander.morais\\source\\repos\\Sealed\\Sealed\\Sealed.csproj": {
+    "F:\\DEVPROJECTS\\VisualStudio\\Repositories\\dotnet-basic-codes\\Sealed\\Sealed\\Sealed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jander.morais\\source\\repos\\Sealed\\Sealed\\Sealed.csproj",
+        "projectUniqueName": "F:\\DEVPROJECTS\\VisualStudio\\Repositories\\dotnet-basic-codes\\Sealed\\Sealed\\Sealed.csproj",
         "projectName": "Sealed",
-        "projectPath": "C:\\Users\\jander.morais\\source\\repos\\Sealed\\Sealed\\Sealed.csproj",
-        "packagesPath": "C:\\Users\\jander.morais\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jander.morais\\source\\repos\\Sealed\\Sealed\\obj\\",
+        "projectPath": "F:\\DEVPROJECTS\\VisualStudio\\Repositories\\dotnet-basic-codes\\Sealed\\Sealed\\Sealed.csproj",
+        "packagesPath": "C:\\Users\\Douglas Morais\\.nuget\\packages\\",
+        "outputPath": "F:\\DEVPROJECTS\\VisualStudio\\Repositories\\dotnet-basic-codes\\Sealed\\Sealed\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jander.morais\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Douglas Morais\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

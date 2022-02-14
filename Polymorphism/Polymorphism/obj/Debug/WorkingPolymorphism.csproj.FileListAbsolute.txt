@@ -1,8 +1,0 @@
-C:\Users\Douglas Morais\source\repos\WorkingPolymorphism\WorkingPolymorphism\bin\Debug\WorkingPolymorphism.exe.config
-C:\Users\Douglas Morais\source\repos\WorkingPolymorphism\WorkingPolymorphism\bin\Debug\WorkingPolymorphism.exe
-C:\Users\Douglas Morais\source\repos\WorkingPolymorphism\WorkingPolymorphism\bin\Debug\WorkingPolymorphism.pdb
-C:\Users\Douglas Morais\source\repos\WorkingPolymorphism\WorkingPolymorphism\obj\Debug\WorkingPolymorphism.csproj.AssemblyReference.cache
-C:\Users\Douglas Morais\source\repos\WorkingPolymorphism\WorkingPolymorphism\obj\Debug\WorkingPolymorphism.csproj.SuggestedBindingRedirects.cache
-C:\Users\Douglas Morais\source\repos\WorkingPolymorphism\WorkingPolymorphism\obj\Debug\WorkingPolymorphism.csproj.CoreCompileInputs.cache
-C:\Users\Douglas Morais\source\repos\WorkingPolymorphism\WorkingPolymorphism\obj\Debug\WorkingPolymorphism.exe
-C:\Users\Douglas Morais\source\repos\WorkingPolymorphism\WorkingPolymorphism\obj\Debug\WorkingPolymorphism.pdb

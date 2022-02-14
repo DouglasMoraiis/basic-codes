@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8bc08dff-cbc0-4e80-a500-e8d29b122c33": {
+      "ProjectGuid": "8bc08dff-cbc0-4e80-a500-e8d29b122c33",
+      "DisplayName": "ExceptionHandling",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

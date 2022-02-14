@@ -1,8 +1,0 @@
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLINQ\WorkingLINQ\obj\Debug\WorkingLINQ.csproj.AssemblyReference.cache
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLINQ\WorkingLINQ\obj\Debug\WorkingLINQ.csproj.SuggestedBindingRedirects.cache
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLINQ\WorkingLINQ\obj\Debug\WorkingLINQ.csproj.CoreCompileInputs.cache
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLINQ\WorkingLINQ\bin\Debug\WorkingLINQ.exe.config
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLINQ\WorkingLINQ\bin\Debug\WorkingLINQ.exe
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLINQ\WorkingLINQ\bin\Debug\WorkingLINQ.pdb
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLINQ\WorkingLINQ\obj\Debug\WorkingLINQ.exe
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingLINQ\WorkingLINQ\obj\Debug\WorkingLINQ.pdb

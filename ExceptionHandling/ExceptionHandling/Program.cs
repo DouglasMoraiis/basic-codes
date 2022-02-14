@@ -5,21 +5,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WorkingExceptionHandling
+namespace ExceptionHandling
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             int num1, num2, result;
-       
+
             try
             {
                 num1 = 5;
                 num2 = 2;
                 result = num1 / num2;
                 throw new Exception("Uma excecao personalizada foi disparada!");
-           
+
             }
             catch (Exception e)
             {

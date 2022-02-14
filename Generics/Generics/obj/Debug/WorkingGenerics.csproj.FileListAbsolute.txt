@@ -1,8 +1,0 @@
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingGenerics\WorkingGenerics\bin\Debug\WorkingGenerics.exe.config
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingGenerics\WorkingGenerics\bin\Debug\WorkingGenerics.exe
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingGenerics\WorkingGenerics\bin\Debug\WorkingGenerics.pdb
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingGenerics\WorkingGenerics\obj\Debug\WorkingGenerics.csproj.AssemblyReference.cache
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingGenerics\WorkingGenerics\obj\Debug\WorkingGenerics.csproj.SuggestedBindingRedirects.cache
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingGenerics\WorkingGenerics\obj\Debug\WorkingGenerics.csproj.CoreCompileInputs.cache
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingGenerics\WorkingGenerics\obj\Debug\WorkingGenerics.exe
-F:\DEVPROJECTS\VisualStudio\Repositories\WorkingGenerics\WorkingGenerics\obj\Debug\WorkingGenerics.pdb

@@ -1,8 +1,0 @@
-C:\Users\Douglas Morais\source\repos\WorkingInterface\WorkingInterface\bin\Debug\WorkingInterface.exe.config
-C:\Users\Douglas Morais\source\repos\WorkingInterface\WorkingInterface\bin\Debug\WorkingInterface.exe
-C:\Users\Douglas Morais\source\repos\WorkingInterface\WorkingInterface\bin\Debug\WorkingInterface.pdb
-C:\Users\Douglas Morais\source\repos\WorkingInterface\WorkingInterface\obj\Debug\WorkingInterface.csproj.AssemblyReference.cache
-C:\Users\Douglas Morais\source\repos\WorkingInterface\WorkingInterface\obj\Debug\WorkingInterface.csproj.SuggestedBindingRedirects.cache
-C:\Users\Douglas Morais\source\repos\WorkingInterface\WorkingInterface\obj\Debug\WorkingInterface.csproj.CoreCompileInputs.cache
-C:\Users\Douglas Morais\source\repos\WorkingInterface\WorkingInterface\obj\Debug\WorkingInterface.exe
-C:\Users\Douglas Morais\source\repos\WorkingInterface\WorkingInterface\obj\Debug\WorkingInterface.pdb
