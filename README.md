@@ -11,7 +11,7 @@
 
 ## 📝 Descrição
 
-Alguns exemplos de aplicações da sintaxe e artifícios empregados na programação .NET com C#
+Exemplos de aplicações da sintaxe e artifícios empregados na programação .NET e C#
 
 ## 🚀 Tecnologias
 
